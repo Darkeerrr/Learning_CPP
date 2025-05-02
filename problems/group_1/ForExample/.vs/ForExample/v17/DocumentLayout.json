@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programs\\Git\\Learning_CPP\\problems\\group_1\\ForExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A494A9E5-25FD-4725-A6B1-FDDB2C6D765F}|ForExample.vcxproj|D:\\programs\\Git\\Learning_CPP\\problems\\group_1\\ForExample\\ForExample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A494A9E5-25FD-4725-A6B1-FDDB2C6D765F}|ForExample.vcxproj|solutionrelative:ForExample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForExample.cpp",
+              "DocumentMoniker": "D:\\programs\\Git\\Learning_CPP\\problems\\group_1\\ForExample\\ForExample.cpp",
+              "RelativeDocumentMoniker": "ForExample.cpp",
+              "ToolTip": "D:\\programs\\Git\\Learning_CPP\\problems\\group_1\\ForExample\\ForExample.cpp",
+              "RelativeToolTip": "ForExample.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T11:20:33.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
