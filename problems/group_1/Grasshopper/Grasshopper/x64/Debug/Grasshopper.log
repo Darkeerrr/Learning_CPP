@@ -1,0 +1,8 @@
+﻿  Grasshopper.cpp
+D:\programs\Git\Learning_CPP\problems\group_1\Grasshopper\grasshopper_game.h(10,21): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "Grasshopper.cpp")
+  
+D:\programs\Git\Learning_CPP\problems\group_1\Grasshopper\game.h(8,21): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "Grasshopper.cpp")
+  
+  Grasshopper.vcxproj -> D:\programs\Git\Learning_CPP\problems\group_1\Grasshopper\x64\Debug\Grasshopper.exe
